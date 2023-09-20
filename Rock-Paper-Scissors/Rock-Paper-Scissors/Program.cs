@@ -24,7 +24,7 @@ while (true)
     Console.WriteLine(computerChoice);
 
 
-    // Checks the winner
+    // Checks for win, lose or draw
     if (computerChoice == userChoice)
     {
         Console.WriteLine("Game Draw!");
