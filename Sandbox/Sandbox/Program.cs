@@ -1,44 +1,14 @@
-﻿Console.Write("Enter your grade: ");
-double grade = Double.Parse(Console.ReadLine());
+﻿Console.Write("Страна A: ");
+double a = double.Parse(Console.ReadLine());
+Console.Write("Страна B: ");
+double b = double.Parse(Console.ReadLine());
 
-if (grade >= 5.50)
+if ((a > 0) && (b > 0))
 {
-    Console.WriteLine("Excellent!");
+    Console.WriteLine($"Периметър: {(a + b) * 2}");
+    Console.WriteLine($"Лице: {a * b}");
 }
 else
 {
-    Console.WriteLine("Try Harder!");
-}
-
-Console.WriteLine("-------------------------------------");
-
-Console.Write("First number: ");
-int first_number = int.Parse(Console.ReadLine());
-Console.Write("Second number: ");
-int second_number = int.Parse(Console.ReadLine());
-
-if (first_number > second_number)
-{
-    Console.WriteLine(first_number);
-}
-else if (second_number > first_number)
-{
-    Console.WriteLine(second_number);
-}
-else
-{
-    Console.WriteLine("Numbers are equal!");
-}
-
-Console.WriteLine("-------------------------------------");
-
-int number = int.Parse(Console.ReadLine());
-
-if (number % 2 == 0)
-{
-    Console.WriteLine("Even");
-}
-else
-{
-    Console.WriteLine("Odd");
+    Console.WriteLine("Трябва А и B да се по-големи от 0!");
 }
