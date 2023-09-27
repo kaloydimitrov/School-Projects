@@ -68,9 +68,9 @@ for (int i = 0; i <= 10; i++)
 
 Console.WriteLine("\n-------------------- Задача 3 --------------------\n");
 
-for (int letter = 'a'; letter <= 'z'; letter++)
+for (int unicode_code = 'a'; unicode_code <= 'z'; unicode_code++)
 {
-    Console.WriteLine(letter);
+    Console.WriteLine(Convert.ToChar(unicode_code));
 }
 
 Console.WriteLine("\n-------------------- Задача 4 --------------------\n");
