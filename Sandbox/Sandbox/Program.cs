@@ -1,147 +1,64 @@
-﻿int[,] matrix = { { 1, 2, 3, 4 }, { 3, 5, 6, 9 }, { 1, 2, 3, 4 } };
+﻿Console.WriteLine("\n---------------- Задача 1 ----------------\n");
 
-for (int r = 0; r < matrix.GetLength(0); r++)
+string command = Console.ReadLine();
+double biggest_num = int.MinValue;
+
+while (command != "Stop")
 {
-    for (int c = 0; c < matrix.GetLength(1); c++)
+    double current_num = double.Parse(command);
+
+    if (current_num > biggest_num)
     {
-        Console.Write(matrix[r, c]);
+        biggest_num = current_num;
     }
-    Console.WriteLine();
+
+    command = Console.ReadLine();
 }
 
-Console.WriteLine("\n-------------------- Задача 0 --------------------\n");
+Console.WriteLine($"Biggest number is {biggest_num}");
 
-int a1 = 3;
-int b1;
-b1 = a1++;
+Console.WriteLine("\n---------------- Задача 2 ----------------\n");
 
-Console.WriteLine(a1);
-Console.WriteLine(b1);
+string comm = Console.ReadLine();
+int count = 0;
 
-Console.WriteLine();
-
-int a2 = 3;
-int b2;
-b2 = ++a2;
-
-Console.WriteLine(a2);
-Console.WriteLine(b2);
-
-Console.WriteLine();
-
-int a3 = 3;
-int b3 = 5;
-a3--;
-b3++;
-b3 = a3++ + b3;
-
-Console.WriteLine(a3);
-Console.WriteLine(b3);
-
-Console.WriteLine();
-
-int a4 = 3;
-int b4 = 5;
-a4--;
-++b4;
-a4 = a4 + b4;
-
-Console.WriteLine(a4);
-Console.WriteLine(b4);
-
-Console.WriteLine("\n-------------------- Задача 1 --------------------\n");
-
-for (int i = 0; i <= 10; i++)
+while (comm != "край")
 {
-    Console.WriteLine(i);
+    count += 1;
+    comm = Console.ReadLine();
 }
 
-Console.WriteLine("\n-------------------- Задача 2 --------------------\n");
-
-string star = "*";
-
-for (int i = 0; i <= 10; i++)
+if (count > 6)
 {
-    Console.WriteLine(star);
-    star += "*";
+    Console.WriteLine("Искаш да си голям пътешественик");
+}
+else if (count > 3)
+{
+    Console.WriteLine("Искаш да пътуваш много");
+}
+else if (count > 0)
+{
+    Console.WriteLine("Искаш да попътуваш малко");
 }
 
-Console.WriteLine("\n-------------------- Задача 3 --------------------\n");
+Console.WriteLine("\n---------------- Задача 3 ----------------\n");
 
-for (int unicode_code = 'a'; unicode_code <= 'z'; unicode_code++)
+string commnd = Console.ReadLine();
+double total_sum = 0;
+
+while (commnd != "NoMoreMoney")
 {
-    Console.WriteLine(Convert.ToChar(unicode_code));
-}
-
-Console.WriteLine("\n-------------------- Задача 4 --------------------\n");
-
-Console.Write($"Numbers: ");
-int num = int.Parse(Console.ReadLine());
-double sum = 0;
-
-for (int i = 0; i < num; i++)
-{
-    Console.Write($"Enter number {i + 1}: ");
-    string userInput = Console.ReadLine();
-    sum += double.Parse(userInput);
-}
-
-Console.WriteLine($"The sum of these numbers is: {sum}");
-
-Console.WriteLine("\n-------------------- Задача 5 --------------------\n");
-
-Console.Write($"Numbers: ");
-int loops = int.Parse(Console.ReadLine());
-int biggest_number = int.MinValue;
-
-
-for (int i = 0; i < loops; i++)
-{
-    Console.Write($"Enter number {i + 1}: ");
-    int userInput = int.Parse(Console.ReadLine());
-    
-    if (userInput > biggest_number)
+    if (double.Parse(commnd) < 0)
     {
-        biggest_number = userInput;
+        Console.WriteLine("Invalid operation!");
+        break;
     }
+
+    Console.WriteLine($"Increase: {commnd}");
+
+    total_sum += double.Parse(commnd);
+
+    commnd = Console.ReadLine();
 }
 
-Console.WriteLine($"Biggest number is: {biggest_number}");
-
-Console.WriteLine("\n-------------------- Задача 6 --------------------\n");
-
-Console.Write($"Numbers: ");
-int nums = int.Parse(Console.ReadLine());
-int lowest_number = int.MaxValue;
-
-
-for (int i = 0; i < nums; i++)
-{
-    Console.Write($"Enter number {i + 1}: ");
-    int userInput = int.Parse(Console.ReadLine());
-
-    if (userInput < lowest_number)
-    {
-        lowest_number = userInput;
-    }
-}
-
-Console.WriteLine($"Lowest number is: {lowest_number}");
-
-Console.WriteLine("\n-------------------- Задача 7 --------------------\n");
-
-List<int> numbers_seven = new List<int>();
-
-for (int numbr = 1; numbr <= 300; numbr++)
-{
-    if (numbr % 10 == 7)
-    {
-        numbers_seven.Add(numbr);
-    }
-}
-
-Console.WriteLine("Numbers that end with '7':");
-foreach (int numbr in numbers_seven)
-{
-    Console.Write($"({numbr}) ");
-}
+Console.WriteLine($"Total: {total_sum}");
