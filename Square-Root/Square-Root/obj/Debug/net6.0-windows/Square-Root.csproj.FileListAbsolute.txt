@@ -1,0 +1,16 @@
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\bin\Debug\net6.0-windows\Square-Root.exe
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\bin\Debug\net6.0-windows\Square-Root.deps.json
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\bin\Debug\net6.0-windows\Square-Root.runtimeconfig.json
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\bin\Debug\net6.0-windows\Square-Root.dll
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\bin\Debug\net6.0-windows\Square-Root.pdb
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square_Root.Form1.resources
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.csproj.GenerateResource.cache
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.AssemblyInfoInputs.cache
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.AssemblyInfo.cs
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.csproj.CoreCompileInputs.cache
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.dll
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\refint\Square-Root.dll
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.pdb
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\Square-Root.genruntimeconfig.cache
+C:\Users\kaloian\github\School-Projects\Square-Root\Square-Root\obj\Debug\net6.0-windows\ref\Square-Root.dll
