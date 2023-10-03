@@ -1,0 +1,14 @@
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\bin\Debug\net6.0\Moving-Monkey.exe
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\bin\Debug\net6.0\Moving-Monkey.deps.json
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\bin\Debug\net6.0\Moving-Monkey.runtimeconfig.json
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\bin\Debug\net6.0\Moving-Monkey.dll
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\bin\Debug\net6.0\Moving-Monkey.pdb
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\Moving-Monkey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\Moving-Monkey.AssemblyInfoInputs.cache
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\Moving-Monkey.AssemblyInfo.cs
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\Moving-Monkey.csproj.CoreCompileInputs.cache
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\Moving-Monkey.dll
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\refint\Moving-Monkey.dll
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\Moving-Monkey.pdb
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\Moving-Monkey.genruntimeconfig.cache
+C:\Users\kaloian\github\School-Projects\Moving-Monkey\Moving-Monkey\obj\Debug\net6.0\ref\Moving-Monkey.dll

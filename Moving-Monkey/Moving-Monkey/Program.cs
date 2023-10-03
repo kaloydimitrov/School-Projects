@@ -29,7 +29,7 @@ void drawMap()
 }
 
 int[] getNewPositions(string key, int current_row, int current_col)
-{ 
+{
     int next_row = 0; int next_col = 0;
 
     if (key == "W")
@@ -81,7 +81,8 @@ void handleTurn(string key)
         bool canHappen = false;
         int next_b_row = next_row; int next_b_col = next_col;
 
-        while (true) {
+        while (true)
+        {
             int[] new_b_positions = getNewPositions(key, next_b_row, next_b_col);
             next_b_row = new_b_positions[0]; next_b_col = new_b_positions[1];
 
