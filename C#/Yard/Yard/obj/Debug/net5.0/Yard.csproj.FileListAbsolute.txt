@@ -1,0 +1,16 @@
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\bin\Debug\net5.0\Yard.exe
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\bin\Debug\net5.0\Yard.deps.json
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\bin\Debug\net5.0\Yard.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\bin\Debug\net5.0\Yard.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\bin\Debug\net5.0\Yard.dll
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\bin\Debug\net5.0\ref\Yard.dll
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\bin\Debug\net5.0\Yard.pdb
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.dll
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\ref\Yard.dll
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.pdb
+Z:\11 Klas\11. Г клас, II група\13\Yard\Yard\obj\Debug\net5.0\Yard.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\bin\Debug\net5.0\Methods04.exe
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\bin\Debug\net5.0\Methods04.deps.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\bin\Debug\net5.0\Methods04.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\bin\Debug\net5.0\Methods04.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\bin\Debug\net5.0\Methods04.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\bin\Debug\net5.0\ref\Methods04.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\bin\Debug\net5.0\Methods04.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\Methods04.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\Methods04.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\Methods04.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\Methods04.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\Methods04.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\ref\Methods04.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\Methods04.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\Methods04\Methods04\obj\Debug\net5.0\Methods04.genruntimeconfig.cache

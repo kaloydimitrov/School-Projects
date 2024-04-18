@@ -1,0 +1,15 @@
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.exe
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.deps.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\bin\Debug\net5.0\ref\Arrays1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\bin\Debug\net5.0\Arrays1.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\ref\Arrays1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\Arrays1\Arrays1\obj\Debug\net5.0\Arrays1.genruntimeconfig.cache

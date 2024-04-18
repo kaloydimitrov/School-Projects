@@ -1,0 +1,16 @@
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\bin\Debug\net5.0\Company.exe
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\bin\Debug\net5.0\Company.deps.json
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\bin\Debug\net5.0\Company.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\bin\Debug\net5.0\Company.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\bin\Debug\net5.0\Company.dll
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\bin\Debug\net5.0\ref\Company.dll
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\bin\Debug\net5.0\Company.pdb
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.dll
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\ref\Company.dll
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.pdb
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.genruntimeconfig.cache
+Z:\11 Klas\11. Г клас, II група\13\Company\Company\obj\Debug\net5.0\Company.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\bin\Debug\net5.0\Conditions3.exe
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\bin\Debug\net5.0\Conditions3.deps.json
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\bin\Debug\net5.0\Conditions3.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\bin\Debug\net5.0\Conditions3.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\bin\Debug\net5.0\Conditions3.dll
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\bin\Debug\net5.0\ref\Conditions3.dll
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\bin\Debug\net5.0\Conditions3.pdb
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\Conditions3.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\Conditions3.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\Conditions3.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\Conditions3.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\Conditions3.dll
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\ref\Conditions3.dll
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\Conditions3.pdb
+Z:\11 Klas\11. Г клас, II група\13\Conditions3\Conditions3\obj\Debug\net5.0\Conditions3.genruntimeconfig.cache

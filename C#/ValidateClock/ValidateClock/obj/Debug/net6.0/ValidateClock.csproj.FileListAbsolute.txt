@@ -1,0 +1,15 @@
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\bin\Debug\net6.0\ValidateClock.exe
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\bin\Debug\net6.0\ValidateClock.deps.json
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\bin\Debug\net6.0\ValidateClock.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\bin\Debug\net6.0\ValidateClock.dll
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\bin\Debug\net6.0\ValidateClock.pdb
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.dll
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\refint\ValidateClock.dll
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.pdb
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ValidateClock.genruntimeconfig.cache
+Z:\11 Klas\11. Г клас, II група\13\ValidateClock\ValidateClock\obj\Debug\net6.0\ref\ValidateClock.dll

@@ -1,0 +1,17 @@
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\bin\Debug\net6.0-windows\SquareFormApplication.exe
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\bin\Debug\net6.0-windows\SquareFormApplication.deps.json
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\bin\Debug\net6.0-windows\SquareFormApplication.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\bin\Debug\net6.0-windows\SquareFormApplication.dll
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\bin\Debug\net6.0-windows\SquareFormApplication.pdb
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.Form1.resources
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.csproj.GenerateResource.cache
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.dll
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\refint\SquareFormApplication.dll
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.pdb
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\SquareFormApplication.genruntimeconfig.cache
+Z:\11 Klas\11. Г клас, II група\13\SquareFormApplication\SquareFormApplication\obj\Debug\net6.0-windows\ref\SquareFormApplication.dll

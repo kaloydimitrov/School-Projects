@@ -1,0 +1,16 @@
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects03\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

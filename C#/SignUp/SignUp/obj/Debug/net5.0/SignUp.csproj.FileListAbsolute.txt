@@ -1,0 +1,16 @@
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\bin\Debug\net5.0\SignUp.exe
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\bin\Debug\net5.0\SignUp.deps.json
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\bin\Debug\net5.0\SignUp.dll
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\bin\Debug\net5.0\SignUp.pdb
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.dll
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.pdb
+Z:\11 Klas\11. Г клас, II група\13\SignUp\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache

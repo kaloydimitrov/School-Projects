@@ -1,0 +1,16 @@
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\bin\Debug\net5.0\CarClass.exe
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\bin\Debug\net5.0\CarClass.deps.json
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\bin\Debug\net5.0\CarClass.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\bin\Debug\net5.0\CarClass.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\bin\Debug\net5.0\CarClass.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\bin\Debug\net5.0\ref\CarClass.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\bin\Debug\net5.0\CarClass.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\ref\CarClass.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\CarClass\CarClass\obj\Debug\net5.0\CarClass.genruntimeconfig.cache

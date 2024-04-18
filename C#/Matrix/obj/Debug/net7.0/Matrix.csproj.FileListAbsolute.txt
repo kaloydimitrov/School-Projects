@@ -1,0 +1,14 @@
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\bin\Debug\net7.0\Matrix.exe
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\bin\Debug\net7.0\Matrix.deps.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\bin\Debug\net7.0\Matrix.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\bin\Debug\net7.0\Matrix.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\bin\Debug\net7.0\Matrix.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\Matrix.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\Matrix.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\Matrix.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\refint\Matrix.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\Matrix.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\Matrix.genruntimeconfig.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\Matrix\obj\Debug\net7.0\ref\Matrix.dll

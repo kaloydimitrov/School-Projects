@@ -1,0 +1,16 @@
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\bin\Debug\net5.0\ClassTriangle.exe
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\bin\Debug\net5.0\ClassTriangle.deps.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\bin\Debug\net5.0\ClassTriangle.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\bin\Debug\net5.0\ClassTriangle.runtimeconfig.dev.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\bin\Debug\net5.0\ClassTriangle.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\bin\Debug\net5.0\ref\ClassTriangle.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\bin\Debug\net5.0\ClassTriangle.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ref\ClassTriangle.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassTriangle\ClassTriangle\obj\Debug\net5.0\ClassTriangle.genruntimeconfig.cache

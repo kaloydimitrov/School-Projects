@@ -1,0 +1,15 @@
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\bin\Debug\net6.0\ClassesAndObjects05.exe
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\bin\Debug\net6.0\ClassesAndObjects05.deps.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\bin\Debug\net6.0\ClassesAndObjects05.runtimeconfig.json
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\bin\Debug\net6.0\ClassesAndObjects05.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\bin\Debug\net6.0\ClassesAndObjects05.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.csproj.AssemblyReference.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.AssemblyInfoInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.AssemblyInfo.cs
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.csproj.CoreCompileInputs.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\refint\ClassesAndObjects05.dll
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.pdb
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ClassesAndObjects05.genruntimeconfig.cache
+Z:\11 Klas\11. Г клас, II група\13\C#\ClassesAndObjects05\ClassesAndObjects05\obj\Debug\net6.0\ref\ClassesAndObjects05.dll
